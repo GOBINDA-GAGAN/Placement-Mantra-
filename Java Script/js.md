@@ -12353,7 +12353,7 @@ Even though there is a timer of 5 seconds supplied to `setTimeout` callback, it 
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 84. What is the output of below code?
+#### 84. What is the output of below code? ✅
 
 ```javascript
 let arr = ["wöchentlich", "Woche", "wäre", "Wann"];
@@ -12395,7 +12395,7 @@ console.log(arr.sort(Intl.Collator().compare)); //['Wann', 'wäre', 'Woche', 'w�
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 85. What is the output of below code?
+#### 85. What is the output of below code? ✅
 
 ```javascript
 function func(a, b = 2) {
