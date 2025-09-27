@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _1_secondLargestNumber {
+public class _2_secondLargestNumber {
 
   public static void main(String[] args) {
 
